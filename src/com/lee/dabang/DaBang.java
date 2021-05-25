@@ -17,7 +17,7 @@ public class DaBang {
 				
 		
 		System.out.println(menu);
-		string[] menus =  menu.split();
+		String[] menus =  menu.split("/");
 		return;
 	}
 
